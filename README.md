@@ -1,6 +1,6 @@
 # v-template
 
-> vue template
+> vue template 自定义模板
 
 ## Build Setup
 
