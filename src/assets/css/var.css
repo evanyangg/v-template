@@ -1,0 +1,17 @@
+/*css 变量*/
+
+:root {
+  --wx-green: #00C800;
+  --theme-background: #f5f5f5;
+  --theme-color: #f34a28;
+  --theme-disabled-color: #999;
+  --disabled-background-color: #ddd;
+  --font-color-default: #323232;
+  --bule: #20A0FF;
+  --image-path: ../../assets/img/;
+  --text-ellipsis: {
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+  }
+}
